@@ -10,6 +10,8 @@ function fortran_parse(str)
     end
 end
 
+export readnml, writenml
+
 #= ==== =#
 #  READ  #
 #= ==== =#
