@@ -1,0 +1,6 @@
+name = "Fortran90Namelists.jl"
+uuid = "a8309822-7fe1-466f-9792-d4d6924f394b"
+repo = "https://github.com/JaeBeom1019/Fortran90Namelists.jl.git"
+description = "Fortran90Namelists_for_DCON"
+
+[packages]
