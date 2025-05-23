@@ -155,7 +155,7 @@ function writenml(io::IO, data::AbstractDict; verbose=false)
 
     if verbose println(txt) end
 
-    write(io, txt)
+    write(io, txt * "\n")
 
     return txt
 end
